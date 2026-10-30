@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sasa-iko",
  "yomi": "さざさいこう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（他撰）",
+  "era": "江戸後期",
+  "author": "木下幸文（1779〜1821）",
+  "desc": "香川景樹の門人木下幸文の遺稿集。千種有功の序は、万葉集の素直さを本としながら今の詞で思うままを詠んだ歌風をたたえる。「貧窮百首」などを含む長歌の部もある。"
+ },
  "editions": [
   {
    "pid": "993385",
